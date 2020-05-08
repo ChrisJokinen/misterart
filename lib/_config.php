@@ -13,9 +13,9 @@
   $db_source = [
     'Employee' => [
       'test' => [
-        'host' => 'localhost',
+        'host' => 'misterart-test-vm',
         'user' => 'root',
-        'pass' => ''
+        'pass' => '80b2fc03e32ed2d1d0b32bf9423c879e50fd325f85236207'
       ],
       'prod' => [
         'host' => 'misterart-test-vm',
